@@ -2,6 +2,7 @@ name: UnknownSound
 favicon: null
 layout_spectrum: 0.46998
 typography_spectrum: 0.29955706582404673
+title: Unknown Sound
 cta:
   domain: null
   bucket: null
