@@ -1,0 +1,23 @@
+name: UnknownSound
+favicon: null
+layout_spectrum: 0.6105206478387117
+typography_spectrum: 0.29955706582404673
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2324890778400004
+  lightness: 0.5466952500864863
+  saturation: 0.9172776725608855
+  rhythmicContrast: 0.5498097261879593
+purpose: []
