@@ -1,7 +1,7 @@
 name: UnknownSound
 favicon: null
-layout_spectrum: 0.42944
-typography_spectrum: 0.2455
+layout_spectrum: 1
+typography_spectrum: 0.20766
 title: Unknown Sound
 cta:
   domain: null
