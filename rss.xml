@@ -4,14 +4,14 @@
         <description><![CDATA[Unknown Sound]]></description>
         <link>https://thegrid.ai/unknownsound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 20:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2015 01:11:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/unknownsound/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Test]]></title>
-            <description><![CDATA[<h1>Test</h1>]]></description>
+            <title><![CDATA[Welcome!]]></title>
+            <description><![CDATA[<article><h1>Welcome!</h1><p>Welcome to Unknown Sound's brand new website!</p></article>]]></description>
             <link>https://thegrid.ai/unknownsound/test/index.html</link>
             <guid isPermaLink="false">975a1959-6aee-4b94-9bdc-2233bdbd2849</guid>
-            <pubDate>Wed, 21 Oct 2015 17:30:04 GMT</pubDate>
+            <pubDate>Sun, 08 Nov 2015 01:11:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
