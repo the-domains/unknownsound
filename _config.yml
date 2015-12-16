@@ -1,7 +1,7 @@
 name: UnknownSound
 favicon: null
-layout_spectrum: 0.92404
-typography_spectrum: 0.20766
+layout_spectrum: 0.59682
+typography_spectrum: 0.25941
 title: Unknown Sound
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#45fffe'
     - '#b3b4b9'
     - '#707274'
-  brandStrength: 0.8125
+  brandStrength: 0.875
   lightness: 0.625
   saturation: 0.3125
   rhythmicContrast: 0.75
