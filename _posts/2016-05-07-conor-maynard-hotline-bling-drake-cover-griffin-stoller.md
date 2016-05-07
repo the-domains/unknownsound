@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=1UPMRYOKRNQ&feature=youtu.be'
 inLanguage: null
 keywords: []
-description: "[Official FREE Download] Conor Maynard has truly done something special here. Conor covered the now-popular track 'Hotline Bling' by Drake back in September, in such a beautifully emotional way - something completely different to the original. To top it, Conor has swiftly snuck in some lines from The Weeknd's 'Can't Feel My Face' and Justin Bieber's 'What Do You Mean?'. He's very cleverly manipulated the original lyrics of 'Hotline Bling' to intertwine the other two songs, and it surprisingly works! Now, if that wasn't enough, Californian producer Griffin Stoller has remixed the cover into something with a bit more power; having layered various instruments without compromising Conor Maynard's angelic vocals. Give it a good couple of listens, and here's the download link that you'll inevitably be wanting... Official download: http://bit.ly/HotlineBlingRmx    Conor Maynard website: http://www.conor-maynard.com/   Conor Maynard Facebook: https://www.facebook.com/ConorMaynard   Conor Maynard Twitter: https://twitter.com/conormaynard   Conor Maynard Soundcloud: https://soundcloud.com/conor-maynard Griffin Stoller website: http://griffinstoller.me/   Griffin Stoller Facebook: https://www.facebook.com/iamgriffinstoller   Griffin Stoller Twitter: https://twitter.com/griffinstoller   Griffin Stoller Soundcloud: https://soundcloud.com/griffin-stoller"
-datePublished: '2016-05-07T16:04:26.367Z'
-dateModified: '2016-05-07T16:04:18.872Z'
+description: "Conor Maynard has truly done something special here. Conor covered the now-popular track 'Hotline Bling' by Drake back in September, in such a beautifully emotional way - something completely different to the original. To top it, Conor has swiftly snuck in some lines from The Weeknd's 'Can't Feel My Face' and Justin Bieber's 'What Do You Mean?'. He's very cleverly manipulated the original lyrics of 'Hotline Bling' to intertwine the other two songs, and it surprisingly works! Now, if that wasn't enough, Californian producer Griffin Stoller has remixed the cover into something with a bit more power; having layered various instruments without compromising Conor Maynard's angelic vocals. Give it a good couple of listens, and here's the download link that you'll inevitably be wanting..."
+datePublished: '2016-05-07T16:06:03.059Z'
+dateModified: '2016-05-07T16:05:47.664Z'
 author:
   - name: Unknown Sound
     url: 'https://www.youtube.com/user/UnknownSoundForYou'
