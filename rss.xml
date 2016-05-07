@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Unknown Sound]]></title>
         <description><![CDATA[Unknown Sound]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://unknownsound.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 16:04:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 16:06:03 GMT</lastBuildDate>
+        <atom:link href="http://unknownsound.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Conor Maynard - Hotline Bling (Drake Cover) [Griffin Stoller Remix]]]></title>
             <description><![CDATA[<article><h1>Conor Maynard - Hotline Bling (Drake Cover) [Griffin Stoller Remix]</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f3b7f28042b430a0c9d612c9c08143337b4e3c5.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=1UPMRYOKRNQ&amp;feature=youtu.be</link>
             <guid isPermaLink="false">8c4229fa-d40c-4a46-9185-8bee42896795</guid>
-            <pubDate>Sat, 07 May 2016 16:04:26 GMT</pubDate>
+            <pubDate>Sat, 07 May 2016 16:06:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
