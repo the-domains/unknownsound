@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Conor Maynard has truly done something special here. Conor covered the now-popular track 'Hotline Bling' by Drake back in September, in such a beautifully emotional way - something completely different to the original. To top it, Conor has swiftly snuck in some lines from The Weeknd's 'Can't Feel My Face' and Justin Bieber's 'What Do You Mean?'. He's very cleverly manipulated the original lyrics of 'Hotline Bling' to intertwine the other two songs, and it surprisingly works! Now, if that wasn't enough, Californian producer Griffin Stoller has remixed the cover into something with a bit more power; having layered various instruments without compromising Conor Maynard's angelic vocals. Give it a good couple of listens, and here's the download link that you'll inevitably be wanting..."
-datePublished: '2016-05-07T17:02:41.378Z'
-dateModified: '2016-05-07T17:01:54.462Z'
+datePublished: '2016-05-07T17:06:04.442Z'
+dateModified: '2016-05-07T17:05:52.464Z'
 author:
-  - name: Unknown Sound
+  - name: ''
     url: 'https://www.youtube.com/user/UnknownSoundForYou'
     avatar: {}
 related: []
