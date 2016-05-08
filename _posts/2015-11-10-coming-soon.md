@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'Our brand new website will be up and running shortly!'
-datePublished: '2016-05-08T16:18:28.555Z'
-dateModified: '2016-05-08T16:05:44.934Z'
+description: 'Welcome to the official website of Unknown Sound, the outside-the-box thinking YouTube channel dedicated to music promotion. Everything posted here is hand-selected from the masses, and featured specially to share with our fans! '
+datePublished: '2016-05-08T16:25:33.509Z'
+dateModified: '2016-05-08T16:25:24.183Z'
 title: ''
 sourcePath: _posts/2015-11-10-coming-soon.md
 author: []
@@ -21,4 +21,6 @@ starred: false
 _type: Blurb
 
 ---
-Our brand new website will be up and running shortly!
+Welcome to the official website of Unknown Sound, the outside-the-box thinking YouTube channel dedicated to music promotion. Everything posted here is hand-selected from the masses, and featured specially to share with our fans! 
+
+Happy listening!
