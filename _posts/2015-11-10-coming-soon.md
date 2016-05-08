@@ -4,20 +4,20 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-10T01:39:03.112Z'
-dateModified: '2015-11-10T01:38:46.493Z'
-title: Coming Soon
+description: 'Our brand new website will be up and running shortly!'
+datePublished: '2016-05-08T16:18:28.555Z'
+dateModified: '2016-05-08T16:05:44.934Z'
+title: ''
+sourcePath: _posts/2015-11-10-coming-soon.md
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-10-coming-soon.md
-published: true
+starred: false
 _type: Blurb
 
 ---
