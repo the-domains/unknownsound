@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/rlgrime/the-hills-rl-grime-remix'
+inLanguage: null
+keywords: []
+description: 'THE HILLS (RL GRIME REMIX) S/O THE WEEKND, MANO, ILLANGELO facebook.com/rlgrime twitter.com/rlgrime youtube.com/rlgrimemusic www.rlgri.me'
+datePublished: '2016-05-08T16:08:16.352Z'
+dateModified: '2016-05-08T16:08:08.547Z'
 author:
   - name: RL Grime
     url: 'http://soundcloud.com/rlgrime'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'THE HILLS (RL GRIME REMIX) S/O THE WEEKND, MANO, ILLANGELO facebook.com/rlgrime twitter.com/rlgrime youtube.com/rlgrimemusic www.rlgri.me'
 app_links:
   - type: ios
     namespace: ai
@@ -48,15 +50,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/rlgrime/the-hills-rl-grime-remix'
 title: The Hills (RL Grime Remix) - The Weeknd by RL Grime
-datePublished: '2016-05-08T16:07:59.721Z'
-dateModified: '2016-05-08T16:07:35.158Z'
-starred: false
 sourcePath: _posts/2016-05-08-the-hills-rl-grime-remix-the-weeknd-by-rl-grime.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: false
 _type: AudioObject
 _context: 'http://schema.org'
 
