@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/minnesota/where-are-u-now-ember-island-cov
 inLanguage: null
 keywords: []
 description: "Here is my remix of Ember Island's cover of Jack U's 'Where are ü now' premiered by NEST HQ. Download link: https://www.hive.co/l/2xsb PLEASE REPOST IF YA DIG THIS! Blogs/ Youtube channels: If you would like a copy of the track to promote on your website/channel please send me a message."
-datePublished: '2016-05-08T15:59:00.824Z'
-dateModified: '2016-05-08T15:58:42.261Z'
+datePublished: '2016-05-08T16:00:31.329Z'
+dateModified: '2016-05-08T15:59:09.347Z'
 author:
   - name: m i n n e s o t a
     url: 'http://soundcloud.com/minnesota'
@@ -51,6 +51,7 @@ app_links:
     namespace: google
     type: ios
 title: Where are ü now - Ember Island cover(Minnesota remix) by m i n n e s o t a
+sourcePath: _posts/2016-05-08-where-are-u-now-ember-island-coverminnesota-remix-by-m-i.md
 authors: []
 publisher:
   name: SoundCloud
@@ -58,7 +59,6 @@ publisher:
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 starred: false
-sourcePath: _posts/2016-05-08-where-are-u-now-ember-island-coverminnesota-remix-by-m-i.md
 _type: AudioObject
 _context: 'http://schema.org'
 
