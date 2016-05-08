@@ -1,18 +1,16 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://soundcloud.com/minnesota/where-are-u-now-ember-island-cover-minnesota-remixnest-premiere'
-inLanguage: null
-keywords: []
-description: "Here is my remix of Ember Island's cover of Jack U's 'Where are ü now' premiered by NEST HQ. Download link: https://www.hive.co/l/2xsb PLEASE REPOST IF YA DIG THIS! Blogs/ Youtube channels: If you would like a copy of the track to promote on your website/channel please send me a message."
-datePublished: '2016-05-08T16:04:06.038Z'
-dateModified: '2016-05-08T16:03:59.026Z'
 author:
   - name: m i n n e s o t a
     url: 'http://soundcloud.com/minnesota'
     avatar: {}
 related: []
+publisher:
+  url: 'http://soundcloud.com'
+  name: SoundCloud
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+  domain: soundcloud.com
+keywords: []
+description: "Here is my remix of Ember Island's cover of Jack U's 'Where are ü now' premiered by NEST HQ. Download link: https://www.hive.co/l/2xsb PLEASE REPOST IF YA DIG THIS! Blogs/ Youtube channels: If you would like a copy of the track to promote on your website/channel please send me a message."
 app_links:
   - type: ios
     namespace: ai
@@ -50,15 +48,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
+isBasedOnUrl: 'https://soundcloud.com/minnesota/where-are-u-now-ember-island-cover-minnesota-remixnest-premiere'
 title: Where are ü now - Ember Island cover(Minnesota remix) by m i n n e s o t a
-sourcePath: _posts/2016-05-08-where-are-u-now-ember-island-coverminnesota-remix-by-m-i.md
-authors: []
-publisher:
-  name: SoundCloud
-  domain: soundcloud.com
-  url: 'http://soundcloud.com'
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+datePublished: '2016-05-08T16:09:28.732Z'
+dateModified: '2016-05-08T16:09:17.095Z'
 starred: false
+sourcePath: _posts/2016-05-08-where-are-u-now-ember-island-coverminnesota-remix-by-m-i.md
+inFeed: true
+hasPage: false
+inNav: false
 _type: AudioObject
 _context: 'http://schema.org'
 
