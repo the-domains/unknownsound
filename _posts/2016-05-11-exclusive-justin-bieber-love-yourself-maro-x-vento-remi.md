@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=wva1gbRiywY'
 inLanguage: en
 keywords:
   - bieber
@@ -14,9 +15,9 @@ keywords:
   - remix
   - tropical
   - house
-description: ''
-datePublished: '2016-05-11T00:44:55.778Z'
-dateModified: '2016-05-11T00:44:52.338Z'
+description: "Today we’re thrilled to present to the world an exclusive debut from newcomers Maro x Vento. The dutch duo have created a sublime tropical house remix of Justin Bieber’s hit single ‘Love Yourself’. The remix is superbly laid back, with the\_original vocals gently layered onto the smooth, authentic tropical house beat! The edits on the vocals are for the most part subtle, however they have worked wonders on this track; generating a refreshing new take on the track! The duo told us they worked on this remix because they didn’t feel there wasn’t a good tropical house remix, and coming to think of it, we can’t think of one\_either …until now!  Maro x Vento consists of 17 year old producers, Maurits Maas (Maro) and Stijn Wind (Vento), two high school classmates from a town near Eindhoven, in the South of The Netherlands. The two met at the age of 12, but only really became friends last year after bumping into each other at a party and discussing their passion of music. When we asked them what inspired them to pursue tropical house, for which they unsurprisingly told us their inspiration came from the likes of\_Matoma, Kygo and Thomas Jack. They told us the reason they even went into tropical house actually came after some trial and error with progressive house, eventually settling with tropical house - and we’re ever so glad they did! \tWe also asked the dutch teenagers who their idols in the music industry were. Though the duo are pursuing tropical house, they told us they have idols from various genres. Ranging from deep house and pop, to hip-hop\_and rock. Specifically they named the likes of KSHMR, Jay Hardway, Martin Garrix, Coldplay, and of course Kygo and Matoma!\_As perfectionists, Maas and Wind have put many hours into the completion of this track, and we can certainly notice the work they’ve put into this!  Summer is just around the corner, and now is the time to get prepared for those rays of sun with this summery track that will undoubtably get you in the mood to dance!\_This is definitely one for the summer playlist!  Maro x Vento website: N/A Maro x Vento Facebook: N/A Maro x Vento Twitter: https://www.facebook.com/maroxvento Maro x Vento Soundcloud: https://soundcloud.com/maroxvento"
+datePublished: '2016-05-11T00:49:19.399Z'
+dateModified: '2016-05-11T00:49:08.967Z'
 author:
   - name: Unknown Sound
     url: 'https://www.youtube.com/user/UnknownSoundForYou'
@@ -60,7 +61,6 @@ app_links:
     namespace: google
     type: ios
 title: '[EXCLUSIVE] Justin Bieber - Love Yourself (Maro x Vento Remix)'
-sourcePath: _posts/2016-05-11-exclusive-justin-bieber-love-yourself-maro-x-vento-remi.md
 authors: []
 publisher:
   name: YouTube
@@ -68,7 +68,7 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-url: exclusive-justin-bieber-love-yourself-maro-x-vento-remi/index.html
+sourcePath: _posts/2016-05-11-exclusive-justin-bieber-love-yourself-maro-x-vento-remi.md
 _type: VideoObject
 _context: 'http://schema.org'
 
