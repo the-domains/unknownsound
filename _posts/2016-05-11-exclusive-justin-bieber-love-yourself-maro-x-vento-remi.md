@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=wva1gbRiywY'
 inLanguage: en
 keywords:
   - bieber
@@ -15,9 +14,9 @@ keywords:
   - remix
   - tropical
   - house
-description: "Today we're thrilled to present to the world an exclusive debut from newcomers Maro x Vento. The dutch duo have created a sublime tropical house remix of Justin Bieber's hit single 'Love Yourself'. The remix is superbly laid back, with the original vocals gently layered onto the smooth, authentic tropical house beat! [Continued]"
-datePublished: '2016-05-11T00:36:22.611Z'
-dateModified: '2016-05-11T00:36:13.647Z'
+description: ''
+datePublished: '2016-05-11T00:37:31.134Z'
+dateModified: '2016-05-11T00:37:11.805Z'
 author:
   - name: Unknown Sound
     url: 'https://www.youtube.com/user/UnknownSoundForYou'
@@ -61,6 +60,7 @@ app_links:
     namespace: google
     type: ios
 title: '[EXCLUSIVE] Justin Bieber - Love Yourself (Maro x Vento Remix)'
+sourcePath: _posts/2016-05-11-exclusive-justin-bieber-love-yourself-maro-x-vento-remi.md
 authors: []
 publisher:
   name: YouTube
@@ -68,7 +68,7 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-05-11-exclusive-justin-bieber-love-yourself-maro-x-vento-remi.md
+url: exclusive-justin-bieber-love-yourself-maro-x-vento-remi/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
