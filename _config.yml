@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About Us
+    id: 46a0774d-98b3-49a3-9684-2da039beae7f
+    type: content
 favicon: null
 title: Unknown Sound
 description: All the up and coming music you haven't heard of yet...
