@@ -1,20 +1,4 @@
-name: Unknown Sound
-favicon: null
-layout_spectrum: 0.7379
 typography_spectrum: 0.14922
-title: Unknown Sound
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-69924507-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5
   saturation: 0.5625
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7379
+analytics:
+  google: UA-69924507-1
+  facebook: null
+  twitter: null
+name: Unknown Sound
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Unknown Sound
+description: All the up and coming music you haven't heard of yet...
 purpose: []
