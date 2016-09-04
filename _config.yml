@@ -27,9 +27,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: About Us
-    id: 46a0774d-98b3-49a3-9684-2da039beae7f
-    type: content
   - name: YouTube
     url: 'https://www.youtube.com/c/unknownsound'
     type: external
