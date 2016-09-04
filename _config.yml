@@ -1,4 +1,3 @@
-layout_spectrum: 0.13279371522367
 typography_spectrum: 0.5127410143613815
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.13279371522367
 analytics:
   google: UA-69924507-1
   facebook: null
@@ -30,6 +30,9 @@ navigation:
   - name: About Us
     id: 46a0774d-98b3-49a3-9684-2da039beae7f
     type: content
+  - name: YouTube
+    url: 'https://www.youtube.com/c/unknownsound'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c49c66ba-a477-4302-82c0-68bdd7f807f7.png
 title: Unknown Sound
