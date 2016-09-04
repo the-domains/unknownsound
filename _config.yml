@@ -27,12 +27,12 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: YouTube
-    url: 'https://www.youtube.com/c/unknownsound'
-    type: external
   - name: About Us
     id: 46a0774d-98b3-49a3-9684-2da039beae7f
     type: content
+  - name: YouTube
+    url: 'https://www.youtube.com/c/unknownsound'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c49c66ba-a477-4302-82c0-68bdd7f807f7.png
 title: Unknown Sound
