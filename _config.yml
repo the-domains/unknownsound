@@ -1,4 +1,5 @@
-typography_spectrum: 0.5127410143613815
+layout_spectrum: 0.608197349544596
+typography_spectrum: 0.26077650935785607
 color:
   brandColors:
     - '#FFFFFF'
@@ -6,15 +7,14 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  brandStrength: 0.5100557133555412
-  lightness: 0.3024251877795905
-  saturation: 0.6636671447195113
-  rhythmicContrast: 0.977058264426887
+  brandStrength: 0.0018973534000060052
+  lightness: 0.915048796513791
+  saturation: 0.06755844331613861
+  rhythmicContrast: 0.06382627386341591
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.13279371522367
 analytics:
   google: UA-69924507-1
   facebook: null
@@ -37,4 +37,183 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c49c66ba-a477-4302-82c0-68bdd7f807f7.png
 title: Unknown Sound
 description: All the up and coming music you haven't heard of yet...
-purpose: []
+purpose:
+  - type: external
+    url: 'https://www.youtube.com/unknownsound'
+    label: YouTube
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F204800600&url=https%3A%2F%2Fvimeo.com%2F204800600&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F619393762_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo"
+      width="1000" height="563" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Unknown Sound
+          url: 'https://vimeo.com/user63112243'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://vimeo.com/'
+        name: Vimeo
+        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+        domain: vimeo.com
+      keywords: []
+      description: >-
+        This is "Background Header" by Unknown Sound on Vimeo, the home for high
+        quality videos and the people who love them.
+      '@type': VideoObject
+      app_links:
+        - url: 'vimeo://app.vimeo.com/videos/204800600'
+          type: ios
+          namespace: ai
+          app_name: Vimeo
+          app_store_id: '425194759'
+        - should_fallback: 'true'
+          app_name: Vimeo
+          package: com.vimeo.android.videoapp
+          url: 'vimeo://app.vimeo.com/videos/204800600'
+          namespace: ai
+          type: web
+        - url: 'vimeo://app.vimeo.com/videos/204800600'
+          namespace: twitter
+          type: ipad
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/204800600'
+          namespace: twitter
+          type: iphone
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/204800600'
+          namespace: twitter
+          type: googleplay
+          name: Vimeo
+          id: com.vimeo.android.videoapp
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://vimeo.com/204800600'
+      title: Background Header
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F204800600&url=https%3A%2F%2Fvimeo.com%2F204800600&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F619393762_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo"
+      width="1000" height="563" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Unknown Sound
+          url: 'https://vimeo.com/user63112243'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://vimeo.com/'
+        name: Vimeo
+        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+        domain: vimeo.com
+      keywords: []
+      description: >-
+        This is "Background Header" by Unknown Sound on Vimeo, the home for high
+        quality videos and the people who love them.
+      '@type': VideoObject
+      app_links:
+        - url: 'vimeo://app.vimeo.com/videos/204800600'
+          type: ios
+          namespace: ai
+          app_name: Vimeo
+          app_store_id: '425194759'
+        - should_fallback: 'true'
+          app_name: Vimeo
+          package: com.vimeo.android.videoapp
+          url: 'vimeo://app.vimeo.com/videos/204800600'
+          namespace: ai
+          type: web
+        - url: 'vimeo://app.vimeo.com/videos/204800600'
+          namespace: twitter
+          type: ipad
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/204800600'
+          namespace: twitter
+          type: iphone
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/204800600'
+          namespace: twitter
+          type: googleplay
+          name: Vimeo
+          id: com.vimeo.android.videoapp
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://vimeo.com/204800600'
+      title: Background Header
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F204800600&url=https%3A%2F%2Fvimeo.com%2F204800600&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F619393762_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo"
+      width="1000" height="563" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Unknown Sound
+          url: 'https://vimeo.com/user63112243'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://vimeo.com/'
+        name: Vimeo
+        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+        domain: vimeo.com
+      keywords: []
+      description: >-
+        This is "Background Header" by Unknown Sound on Vimeo, the home for high
+        quality videos and the people who love them.
+      '@type': VideoObject
+      app_links:
+        - url: 'vimeo://app.vimeo.com/videos/204800600'
+          type: ios
+          namespace: ai
+          app_name: Vimeo
+          app_store_id: '425194759'
+        - should_fallback: 'true'
+          app_name: Vimeo
+          package: com.vimeo.android.videoapp
+          url: 'vimeo://app.vimeo.com/videos/204800600'
+          namespace: ai
+          type: web
+        - url: 'vimeo://app.vimeo.com/videos/204800600'
+          namespace: twitter
+          type: ipad
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/204800600'
+          namespace: twitter
+          type: iphone
+          name: Vimeo
+          id: '425194759'
+        - url: 'vimeo://app.vimeo.com/videos/204800600'
+          namespace: twitter
+          type: googleplay
+          name: Vimeo
+          id: com.vimeo.android.videoapp
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://vimeo.com/204800600'
+      title: Background Header
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
