@@ -33,8 +33,7 @@ navigation:
   - name: YouTube
     url: 'https://www.youtube.com/c/unknownsound'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c49c66ba-a477-4302-82c0-68bdd7f807f7.png
+favicon: null
 title: Unknown Sound
 description: All the up and coming music you haven't heard of yet...
 purpose:
@@ -217,3 +216,4 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
+url: 'http://unknownsound.com'
