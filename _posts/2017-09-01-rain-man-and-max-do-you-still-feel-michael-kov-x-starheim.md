@@ -70,8 +70,8 @@ app_links:
     namespace: google
     type: ios
 title: Rain Man & MAX - Do You Still Feel? (Michael Kov X Starheim Remix)
-datePublished: '2017-09-01T21:03:36.408Z'
-dateModified: '2017-09-01T21:03:34.731Z'
+datePublished: '2017-09-01T21:04:13.492Z'
+dateModified: '2017-09-01T21:04:12.666Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-01-rain-man-and-max-do-you-still-feel-michael-kov-x-starheim.md
@@ -97,7 +97,7 @@ Rain Man:
 
 MAX:
 
-[Websit][3]e; [Facebook][4]; [Twitter][5]; [Soundcloud][6]
+[Website][3]; [Facebook][4]; [Twitter][5]; [Soundcloud][6]
 
 Michael Kov:
 
