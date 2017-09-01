@@ -70,8 +70,8 @@ app_links:
     namespace: google
     type: ios
 title: Rain Man & MAX - Do You Still Feel? (Michael Kov X Starheim Remix)
-datePublished: '2017-09-01T20:58:04.304Z'
-dateModified: '2017-09-01T20:58:03.266Z'
+datePublished: '2017-09-01T21:03:36.408Z'
+dateModified: '2017-09-01T21:03:34.731Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-01-rain-man-and-max-do-you-still-feel-michael-kov-x-starheim.md
@@ -91,22 +91,28 @@ Scandinavia has always been the heart of tropical house and we have no idea why.
 
 ---
 
-Rain Man website: N/A
+Rain Man:
 
-Rain Man Facebook: https://www.facebook.com/omgrainman
+[Facebook][0]; [Twitter][1]; [Soundcloud][2]
 
-Rain Man Twitter: https://twitter.com/omgRainMan
+MAX:
 
-Rain Man Soundcloud: https://soundcloud.com/omgrainman
+[Websit][3]e; [Facebook][4]; [Twitter][5]; [Soundcloud][6]
 
-MAX website: http://www.maxhellskitchen.com
+Michael Kov:
 
-MAX Facebook: https://www.facebook.com/MaxSchneiderOfficial
+[Soundcloud][7]
 
-MAX Twitter: https://twitter.com/maxgschneider
+Starheim:
 
-MAX Soundcloud: https://soundcloud.com/maxschneider
+[Soundcloud][8]
 
-Michael Kov Soundcloud: https://soundcloud.com/michaelkovofficial
-
-Starheim Soundcloud: https://soundcloud.com/starheim
+[0]: https://www.facebook.com/omgrainman "Rain Man Facebook"
+[1]: https://twitter.com/omgRainMan "Rain Man Twitter"
+[2]: https://soundcloud.com/omgrainman "Rain Man Soundcloud"
+[3]: http://www.maxhellskitchen.com/ "MAX Website"
+[4]: https://www.facebook.com/MaxSchneiderOfficial "MAX Facebook"
+[5]: https://twitter.com/maxgschneider "MAX Twitter"
+[6]: https://soundcloud.com/maxschneider "MAX Soundcloud"
+[7]: https://soundcloud.com/michaelkovofficial "Michael Kov Soundcloud"
+[8]: https://soundcloud.com/starheim "Starheim Soundcloud"
