@@ -59,15 +59,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/XMUdMxS7iRY'
 title: Rain Man & MAX - Do You Still Feel? (Michael Kov X Starheim Remix)
-datePublished: '2017-09-01T20:53:01.210Z'
-dateModified: '2017-09-01T20:53:00.175Z'
+datePublished: '2017-09-01T20:56:21.206Z'
+dateModified: '2017-09-01T20:56:19.893Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-09-01-rain-man-and-max-do-you-still-feel-michael-kov-x-starheim.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-01T20:49:35.923Z'
+url: rain-man-and-max-do-you-still-feel-michael-kov-x-starheim/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
@@ -78,26 +79,6 @@ Rain Man & MAX - Do You Still Feel? (Michael Kov X Starheim Remix)
 
 Scandinavia has always been the heart of tropical house and we have no idea why... Possibly because they like to create an escape from the cold weather to the warmth between the lines of each tropical house track. The creators of this little gem are two artists from Norway - home to the likes of Kygo and Matoma that currently dominate the tropical house genre. It's similar to the original track from Rain Man and MAX, but improves subtly in its melodic sound and emphasis on particular layers of the production and vocals. Could this be a tropical house duo partnership on the rise? Indulge yourself in this glistening track by cranking the volume and catching some sun in this beautiful summer!
 
-Rain Man website: N/A
+---
 
-Rain Man Facebook: https://www.facebook.com/omgrainman
-
-Rain Man Twitter: https://twitter.com/omgRainMan
-
-Rain Man Soundcloud: https://soundcloud.com/omgrainman
-
-MAX website: http://www.maxhellskitchen.com
-
-MAX Facebook: https://www.facebook.com/MaxSchneiderOfficial
-
-MAX Twitter: https://twitter.com/maxgschneider 
-
-MAX Soundcloud: https://soundcloud.com/maxschneider
-
-Michael Kov Soundcloud: https://soundcloud.com/michaelkovofficial
-
-Starheim Soundcloud: https://soundcloud.com/starheim
-
-Like us on Facebook: http://facebook.com/UnknownSound
-
-Follow us on Twitter: https://twitter.com/UnknownSound
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNksGKwjAQhu8-RfAB7L2o4GUvkl2we9jrmE7N0CSjSWp8_G1JbZWFpdef72P-H2Yrwd86RFGTRxWJ3W7dXdf7E5ATEpxIeA4UsRSfxWG1muIPUHhmbkuhY7yGsihSSptmTDeKbcH24nvcgnvxvhPFiH7WYg6exgDKN6PiztXKcFfPUpiyP5fk4WfuPPBjNQsPjcaElqLS6AYvwwuWSHhUSjukGv1X05AiMFn-d05_8hKeXuYXjOmtV4mUBjTiyPdFcsZbvvPUs4rgNZJd4oeR3Y5vsf8FtfrDQw" height="244" style=""></iframe>
