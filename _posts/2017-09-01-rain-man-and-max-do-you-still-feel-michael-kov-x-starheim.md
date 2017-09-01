@@ -21,10 +21,7 @@ keywords:
   - starheim remix
   - rain man and max
   - ra...
-description: >-
-  Scandinavia has always been the heart of tropical house and we have no idea
-  why... Possibly because they like to create an escape from the cold weather to
-  the warmth between the lines of each tropical house track.
+description: ''
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=XMUdMxS7iRY&feature=applinks'
     type: ios
@@ -64,15 +61,43 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/XMUdMxS7iRY'
 title: Rain Man & MAX - Do You Still Feel? (Michael Kov X Starheim Remix)
-datePublished: '2017-09-01T20:49:35.923Z'
-dateModified: '2017-09-01T20:49:14.592Z'
-datePublishedOriginal: '2017-09-01T20:49:35.923Z'
+datePublished: '2017-09-01T20:53:01.210Z'
+dateModified: '2017-09-01T20:53:00.175Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-09-01-rain-man-and-max-do-you-still-feel-michael-kov-x-starheim.md
+starred: false
+datePublishedOriginal: '2017-09-01T20:49:35.923Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+Rain Man & MAX - Do You Still Feel? (Michael Kov X Starheim Remix)
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FXMUdMxS7iRY%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXMUdMxS7iRY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FXMUdMxS7iRY%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+Scandinavia has always been the heart of tropical house and we have no idea why... Possibly because they like to create an escape from the cold weather to the warmth between the lines of each tropical house track. The creators of this little gem are two artists from Norway - home to the likes of Kygo and Matoma that currently dominate the tropical house genre. It's similar to the original track from Rain Man and MAX, but improves subtly in its melodic sound and emphasis on particular layers of the production and vocals. Could this be a tropical house duo partnership on the rise? Indulge yourself in this glistening track by cranking the volume and catching some sun in this beautiful summer!
+
+Rain Man website: N/A
+
+Rain Man Facebook: https://www.facebook.com/omgrainman
+
+Rain Man Twitter: https://twitter.com/omgRainMan
+
+Rain Man Soundcloud: https://soundcloud.com/omgrainman
+
+MAX website: http://www.maxhellskitchen.com
+
+MAX Facebook: https://www.facebook.com/MaxSchneiderOfficial
+
+MAX Twitter: https://twitter.com/maxgschneider 
+
+MAX Soundcloud: https://soundcloud.com/maxschneider
+
+Michael Kov Soundcloud: https://soundcloud.com/michaelkovofficial
+
+Starheim Soundcloud: https://soundcloud.com/starheim
+
+Like us on Facebook: http://facebook.com/UnknownSound
+
+Follow us on Twitter: https://twitter.com/UnknownSound
